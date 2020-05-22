@@ -1,0 +1,47 @@
+#menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-0 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-0 .mbr-brand__name a {
+  font-size: 22px;
+}
+#header1-1 H1 {
+  color: #ffffff;
+}
+#header1-1 P {
+  color: #ffffff;
+}
+#features1-f .mbr-section__col .mbr-header__text {
+  font-size: 20px;
+}
+#content5-e .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-e .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-e .mbr-article {
+  color: #fff;
+}
+#msg-box4-4 .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-4 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-4 .mbr-article {
+  color: #ffffff;
+}
+#features1-a P {
+  text-align: center;
+}
+#features1-a .mbr-section__col .mbr-header__text {
+  color: #ffffff;
+}
